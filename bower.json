@@ -1,7 +1,7 @@
 {
   "name": "summernote-image-attributes",
   "main": [
-    "summernote-image-attributes.js",
+    "summernote-image-attributes.js"
   ],
   "homepage": "https://github.com/studiojunkyard/summernote-image-attributes",
   "authors": [
