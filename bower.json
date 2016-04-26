@@ -1,0 +1,26 @@
+{
+  "name": "summernote-image-attributes",
+  "main": [
+    "summernote-image-attributes.js",
+  ],
+  "homepage": "https://github.com/studiojunkyard/summernote-image-attributes",
+  "authors": [
+    "Dennis Suitters <dennis@studiojunkyard.com>",
+    "Nik Petersen <demersus@gmail.com>"
+  ],
+  "description": "Edit img attributes for summernote wysiwyg editor.",
+  "keywords": [
+    "summernote",
+    "plugin",
+    "image",
+    "attributes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
