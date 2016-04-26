@@ -39,7 +39,7 @@
     });
     $.extend($.summernote.options,{
         imageAttributes:{
-            icon:'<i class="note-icon-edit"/>', // This Icon is from the LibreICONS class Extras and SVG Icons for Summernote.
+            icon:'<i class="fa fa-edit"></i>', // This Icon is from the LibreICONS class Extras and SVG Icons for Summernote.
             removeEmpty:true
         }
     })
